@@ -85,8 +85,14 @@ The primary goal of this analysis is to uncover insights from Youtube Dislikes D
 After performing the EDA, the following insights were derived:
 
 ### 1. Top/Bottom Videos:
-- identified videos with the maximum and minimum likes and dislikes, revealing the engagement patterns.
+- Identified videos with the maximum and minimum likes and dislikes, revealing the engagement patterns.
 
-### 2. Impact of Views on Dislikes:
-- The correlation between views and dislikes is 0.68, indicate that increase in view count leads to increase of dislikes count.
+### 2. Active Channels
+- Identified top 10 channels with the highest number of videos, indicating consistent content production
+
+### 3. Inactive Channels
+- Identified bottom 10 channels with lowest number of videos, indicating inconsistent content production
+- 
+### 4. Impact of Views on Dislikes:
+- The correlation between views and dislikes is 0.68, indicate that increase in views count leads to increase of dislikes count.
 
