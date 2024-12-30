@@ -1,7 +1,5 @@
 # Exploratory-Data-Analysis-on-YouTube-Data-Using-Python
 
-# YouTube Dislikes Dataset: Exploratory Data Analysis
-
 ## Project Overview
 
 This project aims to perform Exploratory Data Analysis (EDA) on a YouTube dislikes dataset. The dataset contains data about YouTube trending videos from August 2020 to December 2021, including video information such as views, likes, dislikes, comments, and metadata for videos from the USA, Canada, and Great Britain.
