@@ -92,7 +92,7 @@ After performing the EDA, the following insights were derived:
 
 ### 3. Inactive Channels
 - Identified bottom 10 channels with lowest number of videos, indicating inconsistent content production
-- 
+
 ### 4. Impact of Views on Dislikes:
 - The correlation between views and dislikes is 0.68, indicate that increase in views count leads to increase of dislikes count.
 
